@@ -70,4 +70,17 @@ if __name__ == "__main__":
     main()
 
 ///
-    
+
+# 20250B121 예동하/곱셈과 나눗셈의 함수
+
+# 곱하기 함수
+def multiply(a, b):
+    return a * b
+
+# 나누기 함수
+def divide(a, b):
+    if b == 0:
+        return "0으로 나눌 수 없습니다."
+    return a / b
+
+/// 
