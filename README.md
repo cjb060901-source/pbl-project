@@ -2,10 +2,7 @@
 
 #20250B131지현우/메인화면
 
-mport os
-import time
 
-#계산기로직(더하기,빼기,곱하기,나누기)
 
 def clear_screen():
     os.system('cls' if os.name == 'nt' else 'clear')
