@@ -82,3 +82,9 @@ if __name__ == "__main__":
         return a / b
 
 /// 
+#20250B133최정빈/더하기빼기 함수
+
+def add(a, b):
+    retrun a+b
+def sub(a, b):
+    retrun a-b
